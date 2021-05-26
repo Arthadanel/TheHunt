@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6d8c90ec946ea5d4695c7f60b765a7c8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A Bebedera
+  fontNames:
+  - A Bebedera
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3eeb1e59010c93943ab63aa3c6e5bf14, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

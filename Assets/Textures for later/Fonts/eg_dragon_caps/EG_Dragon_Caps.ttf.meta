@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ff88cb261573db34d9560b406ffb5662
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'EG Dragon Caps '
+  fontNames:
+  - 'EG Dragon Caps '
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 40199c63855064649a0a2b7af5c4b38c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
